@@ -1,6 +1,6 @@
 <?php
 
-namespace Spryker\Shared\Cloudinary;
+namespace Inviqa\Shared\Cloudinary;
 
 interface CloudinaryConstants
 {

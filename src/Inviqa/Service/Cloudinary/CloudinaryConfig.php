@@ -1,8 +1,8 @@
 <?php
 
-namespace Spryker\Service\Cloudinary;
+namespace Inviqa\Service\Cloudinary;
 
-use Spryker\Shared\Cloudinary\CloudinaryConstants;
+use Inviqa\Shared\Cloudinary\CloudinaryConstants;
 use Spryker\Service\Kernel\AbstractBundleConfig;
 
 class CloudinaryConfig extends AbstractBundleConfig

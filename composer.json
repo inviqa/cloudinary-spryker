@@ -10,7 +10,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Spryker\\": "src/Spryker/"
+      "Inviqa\\": "src/Inviqa/"
     }
   },
   "minimum-stability": "dev",

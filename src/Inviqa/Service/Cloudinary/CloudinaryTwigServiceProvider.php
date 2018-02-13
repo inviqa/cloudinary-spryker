@@ -1,6 +1,6 @@
 <?php
 
-namespace Spryker\Service\Cloudinary;
+namespace Inviqa\Service\Cloudinary;
 
 use Cloudinary;
 use Silex\Application;
