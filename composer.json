@@ -1,0 +1,26 @@
+{
+  "name": "inviqa/cloudinary-spryker",
+  "description": "Spryker Cloudinary module",
+  "license": "proprietary",
+  "require": {
+    "php": ">=7.1",
+    "spryker/gui": "^3.0.0",
+    "spryker/twig": "^3.0",
+    "cloudinary/cloudinary_php": "^1.8"
+  },
+  "autoload": {
+    "psr-4": {
+      "Spryker\\": "src/Spryker/"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0.x-dev"
+    }
+  },
+  "config": {
+    "sort-packages": true
+  }
+}
